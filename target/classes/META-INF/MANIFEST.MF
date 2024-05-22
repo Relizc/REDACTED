@@ -1,4 +1,40 @@
 Manifest-Version: 1.0
 Build-Jdk-Spec: 17
+Class-Path: lwjgl-3.3.3.jar lwjgl-assimp-3.3.3.jar lwjgl-bgfx-3.3.3.jar 
+ lwjgl-cuda-3.3.3.jar lwjgl-egl-3.3.3.jar lwjgl-fmod-3.3.3.jar lwjgl-fre
+ etype-3.3.3.jar lwjgl-glfw-3.3.3.jar lwjgl-harfbuzz-3.3.3.jar lwjgl-hwl
+ oc-3.3.3.jar lwjgl-jawt-3.3.3.jar lwjgl-jemalloc-3.3.3.jar lwjgl-ktx-3.
+ 3.3.jar lwjgl-libdivide-3.3.3.jar lwjgl-llvm-3.3.3.jar lwjgl-lmdb-3.3.3
+ .jar lwjgl-lz4-3.3.3.jar lwjgl-meow-3.3.3.jar lwjgl-meshoptimizer-3.3.3
+ .jar lwjgl-nanovg-3.3.3.jar lwjgl-nfd-3.3.3.jar lwjgl-nuklear-3.3.3.jar
+  lwjgl-odbc-3.3.3.jar lwjgl-openal-3.3.3.jar lwjgl-opencl-3.3.3.jar lwj
+ gl-opengl-3.3.3.jar lwjgl-opengles-3.3.3.jar lwjgl-openvr-3.3.3.jar lwj
+ gl-openxr-3.3.3.jar lwjgl-opus-3.3.3.jar lwjgl-ovr-3.3.3.jar lwjgl-par-
+ 3.3.3.jar lwjgl-remotery-3.3.3.jar lwjgl-rpmalloc-3.3.3.jar lwjgl-shade
+ rc-3.3.3.jar lwjgl-spvc-3.3.3.jar lwjgl-sse-3.3.3.jar lwjgl-stb-3.3.3.j
+ ar lwjgl-tinyexr-3.3.3.jar lwjgl-tinyfd-3.3.3.jar lwjgl-tootle-3.3.3.ja
+ r lwjgl-vma-3.3.3.jar lwjgl-vulkan-3.3.3.jar lwjgl-xxhash-3.3.3.jar lwj
+ gl-yoga-3.3.3.jar lwjgl-zstd-3.3.3.jar lwjgl-3.3.3-natives-macos.jar lw
+ jgl-assimp-3.3.3-natives-macos.jar lwjgl-bgfx-3.3.3-natives-macos.jar l
+ wjgl-freetype-3.3.3-natives-macos.jar lwjgl-glfw-3.3.3-natives-macos.ja
+ r lwjgl-harfbuzz-3.3.3-natives-macos.jar lwjgl-hwloc-3.3.3-natives-maco
+ s.jar lwjgl-jemalloc-3.3.3-natives-macos.jar lwjgl-ktx-3.3.3-natives-ma
+ cos.jar lwjgl-libdivide-3.3.3-natives-macos.jar lwjgl-llvm-3.3.3-native
+ s-macos.jar lwjgl-lmdb-3.3.3-natives-macos.jar lwjgl-lz4-3.3.3-natives-
+ macos.jar lwjgl-meow-3.3.3-natives-macos.jar lwjgl-meshoptimizer-3.3.3-
+ natives-macos.jar lwjgl-nanovg-3.3.3-natives-macos.jar lwjgl-nfd-3.3.3-
+ natives-macos.jar lwjgl-nuklear-3.3.3-natives-macos.jar lwjgl-openal-3.
+ 3.3-natives-macos.jar lwjgl-opengl-3.3.3-natives-macos.jar lwjgl-opengl
+ es-3.3.3-natives-macos.jar lwjgl-openvr-3.3.3-natives-macos.jar lwjgl-o
+ pus-3.3.3-natives-macos.jar lwjgl-par-3.3.3-natives-macos.jar lwjgl-rem
+ otery-3.3.3-natives-macos.jar lwjgl-rpmalloc-3.3.3-natives-macos.jar lw
+ jgl-shaderc-3.3.3-natives-macos.jar lwjgl-spvc-3.3.3-natives-macos.jar 
+ lwjgl-sse-3.3.3-natives-macos.jar lwjgl-stb-3.3.3-natives-macos.jar lwj
+ gl-tinyexr-3.3.3-natives-macos.jar lwjgl-tinyfd-3.3.3-natives-macos.jar
+  lwjgl-tootle-3.3.3-natives-macos.jar lwjgl-vma-3.3.3-natives-macos.jar
+  lwjgl-xxhash-3.3.3-natives-macos.jar lwjgl-yoga-3.3.3-natives-macos.ja
+ r lwjgl-zstd-3.3.3-natives-macos.jar lwjgl-vulkan-3.3.3-natives-macos.j
+ ar
+Main-Class: redacted.main.Main
 Created-By: Maven Integration for Eclipse
 
